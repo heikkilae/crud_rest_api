@@ -1,0 +1,29 @@
+{
+  "name": "mobiiliprojekti_api",
+  "version": "0.1.0",
+  "description": "Mongodb API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://anthei@git.code.sf.net/p/mobiiliprojekti-tiimi1/code"
+  },
+  "keywords": [
+    "Mongodb",
+    "Rest",
+    "API"
+  ],
+  "author": "Antti Heikkila",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10"
+  }
+}

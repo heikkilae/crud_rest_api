@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AjanvarausApp</string>
+    <string name="title_activity_reservation">Ajanvaraus</string>
+</resources>
